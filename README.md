@@ -72,15 +72,15 @@ git clone https://github.com/Bhola001/student-result-management-system.git
 
 ```
 
-##2️⃣ Install dependencies
+2️⃣ Install dependencies
 
 pip install pandas openpyxl
 
-##3️⃣ Run the project
+3️⃣ Run the project
 
 python main.py
 
-##📌 How It Works
+📌 How It Works
 
 Enter student details and marks
 
@@ -90,7 +90,7 @@ Generates rankings and performance reports
 
 Exports all data into Excel files
 
-##📊 Output Reports
+📊 Output Reports
 
 Class Top 3 Toppers
 
@@ -102,7 +102,7 @@ Class-wise Statistics
 
 Complete School Report Card
 
-##🎯 Future Improvements
+🎯 Future Improvements
 
 🖥️ GUI interface using Tkinter or Web app
 
@@ -112,11 +112,11 @@ Complete School Report Card
 
 📊 Dashboard with data visualization
 
-##👨‍💻 Author
+👨‍💻 Author
 
 Bhola Kumar
 
-##⭐ Support
+⭐ Support
 
 If you like this project, please ⭐ the repository and feel free to contribute!
 
